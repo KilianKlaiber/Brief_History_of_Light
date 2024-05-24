@@ -22,19 +22,27 @@ main nav {
   margin: 2%;
 }
 
-main nav ul {
+main nav fieldset{
+  text-decoration: none;
+  color: orangered;
+  text-align: center;
+  font-weight: bold;
+}
+
+main nav fieldset ul {
   width: auto;
   list-style-type: none;
   padding-left: 1%;
   padding-right: 1%;
+  text-align: left;
 }
 
-main nav ul li {
+main nav fieldset ul li {
   margin-bottom: 25%;
   margin-top: 25%;
 }
 
-main nav ul li a {
+main nav fieldset ul li a {
   text-decoration: none;
   color: ivory;
   font-weight: bold;
