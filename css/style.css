@@ -138,7 +138,7 @@ main div footer {
   padding-left: 5%;
   padding-bottom: 1%;
   display: flex;
-  justify-content: space-around;
+  justify-content:left;
 }
 
 main div footer address {
