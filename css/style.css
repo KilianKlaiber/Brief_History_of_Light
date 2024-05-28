@@ -129,6 +129,26 @@ main article {
   text-align: center;
 }
 
+.login input[type="submit"]{
+  width: 250px;
+  height: 50px;
+  background-color: orange;
+  font-size: larger;
+
+}
+
+.logout{
+  text-align: center;
+}
+
+.logout input[type="submit"]{
+  width: 250px;
+  height: 50px;
+  background-color: orange;
+  font-size: larger;
+}
+
+
 main article img {
   max-width: 100%;
   height: auto;
