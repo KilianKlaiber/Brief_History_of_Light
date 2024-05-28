@@ -160,6 +160,10 @@ main article {
 
 }
 
+.register fieldset{
+  width: 40%;
+}
+
 
 main article img {
   max-width: 100%;
