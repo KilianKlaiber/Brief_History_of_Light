@@ -134,6 +134,7 @@ main article {
   height: 50px;
   background-color: orange;
   font-size: larger;
+  cursor: pointer;
 
 }
 
@@ -146,6 +147,7 @@ main article {
   height: 50px;
   background-color: orange;
   font-size: larger;
+  cursor: pointer;
 }
 
 .register{
@@ -157,6 +159,7 @@ main article {
   height: 50px;
   background-color: orange;
   font-size: larger;
+  cursor: pointer;
 
 }
 
